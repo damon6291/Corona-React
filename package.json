@@ -2,6 +2,7 @@
   "name": "corona-react",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://damon6291.github.io/Corona-React/",
   "dependencies": {
     "@material-ui/core": "^4.9.10",
     "@testing-library/jest-dom": "^4.2.4",
