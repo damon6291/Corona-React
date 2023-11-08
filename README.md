@@ -1,3 +1,5 @@
+This project is not available as covide API is not supported anymore
+
 ![image](https://github.com/damon6291/Corona-React/assets/50089975/b7075b48-3165-4da4-97fd-c95c38589dc5)
 
 
